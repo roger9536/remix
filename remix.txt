@@ -1,0 +1,5 @@
+
+
+#EXTM3U
+#EXTINF:-1,Italo Disco Clássicos Megamix
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1704910205/ei/HYmeZeSyI8evp-oPo_izsA4/ip/77.54.27.119/id/7bde337f1ecf034c/itag/233/source/youtube/requiressl/yes/ratebypass/yes/pfa/1/goi/133/sgoap/clen%3D17447381%3Bdur%3D2861.162%3Bgir%3Dyes%3Bitag%3D139%3Blmt%3D1695915977747703/rqh/1/hls_chunk_host/rr2---sn-8vq54vox2u-v2vl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/mh/Lz/mm/31,29/mn/sn-8vq54vox2u-v2vl,sn-8vq54vox2u-apnl/ms/au,rdu/mv/m/mvi/2/pl/20/initcwndbps/1012500/vprv/1/playlist_type/DVR/dover/13/txp/4532434/mt/1704888300/fvip/1/short_key/1/keepalive/yes/fexp/24007246/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,pfa,goi,sgoap,rqh,xpc,vprv,playlist_type/sig/AJfQdSswRgIhALGzRU5oOjlVYMSRG2hZldnCl3sbK0mymS3wyKf8vvuuAiEAi9ashrUKsL1ubuPaVLnulfEF3toNE2wikine2ec0fL0%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl,initcwndbps/lsig/AAO5W4owRQIgfOVOf_nr7a8USbaSTRRBjqlfU7RI2bF8nnvJXrPliBACIQDp7eECgIbdmAAAM5YRekSaYcjXzpIZi5WgWLfxR5P3fQ%3D%3D/playlist/index.m3u
